@@ -1,6 +1,6 @@
 # YOLO Achievement Test
 
-This is a temporary modification to test the GitHub YOLO achievement badge.
+This is a temporary modification to test the GitHub YOLO achievement badge. So, lets do it.
 
 ## Verification Details
 - **Trigger**: Merge a pull request without code review.
